@@ -1,0 +1,15 @@
+/workspace/DesktopWaveShooter/bin/Release/net8.0-windows/DesktopWaveShooter
+/workspace/DesktopWaveShooter/bin/Release/net8.0-windows/DesktopWaveShooter.deps.json
+/workspace/DesktopWaveShooter/bin/Release/net8.0-windows/DesktopWaveShooter.runtimeconfig.json
+/workspace/DesktopWaveShooter/bin/Release/net8.0-windows/DesktopWaveShooter.dll
+/workspace/DesktopWaveShooter/bin/Release/net8.0-windows/DesktopWaveShooter.pdb
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.AssemblyInfoInputs.cache
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.AssemblyInfo.cs
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.csproj.CoreCompileInputs.cache
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.sourcelink.json
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.dll
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/refint/DesktopWaveShooter.dll
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.pdb
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/DesktopWaveShooter.genruntimeconfig.cache
+/workspace/DesktopWaveShooter/obj/Release/net8.0-windows/ref/DesktopWaveShooter.dll
